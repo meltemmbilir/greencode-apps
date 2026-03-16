@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "id": "6759923002",
+      "name": "Find Air",
+      "tagline": "Device Tracker & Finder",
+      "icon_url": "FIND_AIR_ICON_URL_BURAYA"
+    },
+    {
+      "id": "6759924275",
+      "name": "Cleanup",
+      "tagline": "Clean Storage Space",
+      "icon_url": "CLEANUP_ICON_URL_BURAYA"
+    }
+  ]
+}

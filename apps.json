@@ -4,19 +4,7 @@
       "id": "6759923002",
       "name": "Find Air",
       "tagline": "Device Tracker & Finder",
-      "icon_url": "FIND_AIR_ICON_URL_BURAYA"
-    },
-    {
-      "id": "6759924275",
-      "name": "Cleanup",
-      "tagline": "Clean Storage Space",
-      "icon_url": "CLEANUP_ICON_URL_BURAYA"
-    },
-    {
-      "id": "6514310473",
-      "name": "Sleep Tracker",
-      "tagline": "Sleep Tracker Remly",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/3c/ad/153cad6d-15ac-357c-1d63-6b95e054a4d7/Placeholder.mill/1200x630wa.jpg"
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/96/c6/aa96c679-28c3-1d7d-acd3-2219b88b0905/Placeholder.mill/1200x630wa.jpg"
     }
   ]
 }
